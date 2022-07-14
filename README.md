@@ -1,2 +1,2 @@
 # target-desafios
-Resoluções dos desafio da Terget
+Resoluções dos desafio da Target
